@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+#Rédaction de commentaire
+#*.txt : tous les fichiers .txt seront ignorés
